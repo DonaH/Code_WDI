@@ -1,4 +1,4 @@
-#This is to get our project 1 started. 
+#This is to get our project 1 started.
 ### Steps:
   1. Create a Repo
   2. Draw wireframes for my game.
@@ -13,7 +13,8 @@
       + Backlog
       + Current
       + Done
-### User Stories
-###### (role, goal, reason)
 
-#### As a game developer, I want players to enjoy playing the games so that they can enjoy few fleeting moments of joy in their hectic lives. 
+      ### User Stories
+      ###### (role, goal, reason)
+
+      #### As a game developer, I want players to enjoy playing the games so that they can enjoy few fleeting moments of joy in their hectic lives.
